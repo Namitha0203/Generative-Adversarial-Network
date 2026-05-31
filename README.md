@@ -120,5 +120,4 @@ This project successfully demonstrates the implementation and training of a GAN 
 
 
 
-### **Generator**
 
